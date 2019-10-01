@@ -10,6 +10,10 @@ import android.widget.TextView;
 
 import java.util.concurrent.Executors;
 
+// TODO 03. In your device/emulator access Settings > Developer options
+// TODO 04. Under Apps, turn ON "Don't keep activities"
+// TODO 05. Run the app and after 2-3 seconds press the home button to destroy activity
+
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = MainActivity.class.getSimpleName();

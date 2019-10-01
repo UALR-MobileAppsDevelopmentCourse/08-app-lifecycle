@@ -5,6 +5,8 @@ import java.util.concurrent.Executor;
 /**
  * Created by irconde on 2019-10-01.
  */
+
+// TODO 02. We create the DatabaseRepository calls. It simulates a database query just sleeping the thread for 10 seconds
 public class DatabaseRepository {
 
     private Executor mExecutor;
