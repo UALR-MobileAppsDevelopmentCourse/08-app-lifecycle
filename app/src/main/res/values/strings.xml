@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppLifecycle</string>
+    <string name="on_pause">Activity paused</string>
+    <string name="on_stop">Activity stopped</string>
+    <string name="on_resume">Activity resumed</string>
+    <string name="on_create">Activity created</string>
+    <string name="on_start">Activity started</string>
+    <string name="on_restart">Activity restarted</string>
+    <string name="on_destroy">Activity destroyed</string>
+    <string name="destroy_btn">destroy activity</string>
+</resources>
